@@ -1,4 +1,4 @@
-<img src="https://github.com/golDen-Scale/golDen-Scale/blob/main/banner.png" width="1000">
+<img src="https://github.com/golDen-Scale/golDen-Scale/blob/main/banner-1.png" width="1000">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=8FEC0F&background=FFA30C00&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+I+AM+A+CYBER-SECURITY+RESEARCHER.)](https://git.io/typing-svg)
 
